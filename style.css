@@ -1,0 +1,34 @@
+    body{
+        background-color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: url(https://content3.jdmagicbox.com/comp/amalapuram/l1/9999p8856.8856.180202220029.x9l1/catalogue/delhi-public-school-amalapuram-libraries-10tidsw396.jpg);
+    }
+    img{
+        width: 400px;
+        height: 300px;
+    }
+    text{
+        width: 10px;
+        height: 10px;
+    }
+    h1{
+        color: black;
+        size: 10px;
+    }
+    h2{
+        color: black;
+        size: 8px;
+    }
+    h3{
+        color: black;
+        size: 6px;
+    }
+    h4{
+        color: black;
+        size: 6px;
+    }
+    p{
+        color: black;
+        size: 6px;
+    }
